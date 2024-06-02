@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tylerkohlhaas
-- 👀 I’m interested in data science, data visualization, and machine learning.
-- 🌱 I’m currently learning Python, SQL, and Tableau
-- 📫 Reach out if you're interested in talking about any or all of the above :)
+- 👀 I’m interested in web dev, data analytics, and data visualization.
+- 🌱 I’m currently learning React and Python
 
 <!---
 tylerkohlhaas/tylerkohlhaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
